@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb1994a-64d3-4309-af73-cae72332adad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/CucumberTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Authentication/GetUserInfomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Authentication/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Authentication/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Hello/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Orders/CreateNewOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Orders/GetAllOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Orders/GetOrderById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/ProductCategories/CreateACategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Products/AssignAProductRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Products/CreateACommentForProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Products/CreateANewProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Products/DeleteAProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Products/GetAllProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Products/GetProductById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Products/GetProductComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Products/GetProductRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Authentication/GetUserInformationStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Authentication/LoginStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Authentication/RegisterStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Hello/IndexStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Orders/CreateNewOrderStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Orders/GetAllOrderStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Orders/GetOrderByIdStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/ProductCategories/CreateACategoryStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Products/AssignAProductRatingStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Products/CreateACommentForProductStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Products/CreateANewProductStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Products/DeleteAProductStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Products/GetAllProductsStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Products/GetProductByIdStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Products/GetProductCommentStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/Projects/Products/GetProductRatingStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Authentication/GetUserInformation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Authentication/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Authentication/Register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Hello/Index.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Orders/CreateNewOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Orders/GetAllOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Orders/GetOrderById.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/ProductCategories/CreateACategory.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Products/AssignAProductRating.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Products/CreateACommentForProduct.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Products/CreateANewProduct.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Products/DeleteAProduct.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Products/GetAllProducts.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Products/GetProductById.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Products/GetProductComment.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Projects/Products/GetProductRating.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GuHHImtMWC5HMBY36MaVDJnM1l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Krisnayoga/IdeaProjects/API/src/test/java/starter/stepdefinitions/Projects/ProductCategories"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Krisnayoga\IdeaProjects\API\src\test\resources\features\Projects\Authentication" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb1994a-64d3-4309-af73-cae72332adad" name="Changes" comment="" />
+      <created>1667231460759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667231460759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
